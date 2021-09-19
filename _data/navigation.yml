@@ -20,6 +20,8 @@ main:
   #   url: /sitemap/
   
 docs:
+  - title: "Home"
+    url: "https://danny6883.github.io/"
   - title: Algorithm
     children:
       - title: "BOJ"
